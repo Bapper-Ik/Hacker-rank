@@ -9,7 +9,7 @@ def door_mat(N, M):
         pattern = ".|." * i
         print(pattern.center(M, '-'))
 
-    
+        
 
 door_mat(7, 21)
 
